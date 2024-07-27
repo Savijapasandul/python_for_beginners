@@ -4,6 +4,6 @@ greeter = Greeter("Savija")
 
 print(greeter.greet())
 
-greeter1 = Greeter("Tommy")
+# greeter1 = Greeter("Tommy")
 
-print(greeter1.greet())
+# print(greeter1.greet())
